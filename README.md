@@ -4,13 +4,23 @@ This archive is distributed under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software
 that was used in the research reported on in the paper 
-[A kernel-based stochastic approximation framework for contextual optimization](https://doi.org/10.1287/ijoc.2024.0833) by Hao Cao, Jian-Qiang Hu, and Jiaqiao Hu. 
+[A kernel-based stochastic approximation framework for contextual optimization](https://doi.org/***) by Hao Cao, Jian-Qiang Hu, and Jiaqiao Hu. 
 
 ## Cite
 
 To cite the contents of this repository, please cite the paper, using its DOI.
 
-https://doi.org/10.1287/ijoc.2024.0833
+https://doi.org/***
+
+```
+@misc{cao2025kernel,
+  author =        {Hao Cao and Jian-Qiang Hu and Jiaqiao Hu},
+  journal =       {SSRN},
+  title =         {A kernel based stochastic approximation framework for contextual optimization},
+  year =          {2025},
+  doi =           {***},
+}  
+```
 
 ## Description
 
