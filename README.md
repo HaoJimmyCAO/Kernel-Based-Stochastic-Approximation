@@ -13,10 +13,9 @@ To cite the contents of this repository, please cite the paper.
 @misc{cao2024kernel,
   author =        {Hao Cao and Jian-Qiang Hu and Jiaqiao Hu},
   journal =       {SSRN Electronic Journal},
-  title =         {A kernel based stochastic approximation framework for contextual optimization},
+  title =         {A kernel-based stochastic approximation framework for contextual optimization},
   year =          {2024},
   note =          {Available at SSRN: https://ssrn.com/abstract=5411562},
-  url  =          {https://ssrn.com/abstract=5411562},
 }  
 ```
 
